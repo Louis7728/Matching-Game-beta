@@ -1,3 +1,5 @@
 # Matching-Game-beta
 
-copy sfml .dll's into project folder after building
+this was made with VS Community
+
+you'll need to copy the sfml .dll's into the project folder after building
